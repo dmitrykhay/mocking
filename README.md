@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ta4xisgyi7ftla1q?svg=true)](https://ci.appveyor.com/project/OlyaMa/mocking)
